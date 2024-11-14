@@ -51,7 +51,7 @@ h1 {
 #clear-button {
     margin-top: 20px;
     padding: 10px 20px;
-    background-color: ##05eef2; /* blue */
+    background-color: #6e70fa; /* blue */
     border: none;
     color: #ffffff; /* White */
     cursor: pointer;
@@ -59,7 +59,7 @@ h1 {
     border-radius: 5px;
 }
 #clear-button:hover {
-    background-color: #bdfeff; /* clear blue on hover */
+    background-color: #373afa; /* clear blue on hover */
 }
 
 .processing {
