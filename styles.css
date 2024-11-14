@@ -52,7 +52,7 @@ h1 {
     margin-top: 20px;
     padding: 10px 20px;
     background-color: #6e70fa; /* blue */
-    border: none;
+    border: outset;
     color: #ffffff; /* White */
     cursor: pointer;
     outline: none;
