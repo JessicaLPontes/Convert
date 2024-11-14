@@ -10,7 +10,7 @@ body {
     min-height: 100vh;
 }
 #logo {
-    width: 200px; /* Ajusta o tamanho da imagem conforme necessário */
+    width: 150px; /* Ajusta o tamanho da imagem conforme necessário */
     height: auto; /* Mantém a proporção */
     margin-bottom: 20px; /* Espaço abaixo da imagem */
 }
